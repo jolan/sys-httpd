@@ -1,0 +1,16 @@
+received req GET /cmd/titles HTTP/1.1
+Host: 10.0.0.84:42069
+User-Agent: curl/7.70.0
+Accept: */*
+
+ from 10.0.0.2:51902
+starting populating version listinitLocalVerList() reached
+recordsLength: 42 metaLength 1
+updateMeta started
+nsGetApplicationControlData
+nsGetApplicationControlData() result: 0xe401
+before nacpGetLanguageEntry
+nacpGetLanguageEntry() result: 0xe401
+after nacpGetLanguageEntry
+before strncpy 1
+TID=72295775988088832 name=(null) dispVer=

@@ -1,0 +1,7 @@
+build
+*.elf
+*.npdm
+*.nso
+*.nsp
+*.zip
+out/
